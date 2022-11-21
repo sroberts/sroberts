@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Swift app development. 
 - 💞️ I’m looking to collaborate on Swift security apps.
 - 📫 How to reach me ...
-  -  🐘 <a rel="me" href="https://infosec.exchange/@sroberts">Mastodon: @sroberts@infosec.exchange</a>
+  -  🕸️ [sroberts.io](https://sroberts.io)
+  -  🐘 <a rel="me" href="https://infosec.exchange/@sroberts">Mastodon: @sroberts</a>
 
 <!---
 sroberts/sroberts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
